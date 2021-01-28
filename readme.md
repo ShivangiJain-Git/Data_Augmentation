@@ -17,4 +17,4 @@
 	- Random Zoom Augmentation.
  
 - ### Notebook
-	  Data_Augmentation.ipynb
+	Data_Augmentation.ipynb
